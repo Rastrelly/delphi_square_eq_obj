@@ -1,0 +1,54 @@
+object Form1: TForm1
+  Left = 117
+  Height = 240
+  Top = 141
+  Width = 320
+  Caption = 'Square Equation Solver - Object Edition'
+  ClientHeight = 240
+  ClientWidth = 320
+  OnCreate = FormCreate
+  LCLVersion = '2.2.6.0'
+  object edA: TEdit
+    Left = 16
+    Height = 23
+    Top = 8
+    Width = 80
+    TabOrder = 0
+    Text = '-10'
+  end
+  object edB: TEdit
+    Left = 16
+    Height = 23
+    Top = 40
+    Width = 80
+    TabOrder = 1
+    Text = '13'
+  end
+  object edC: TEdit
+    Left = 16
+    Height = 23
+    Top = 72
+    Width = 80
+    TabOrder = 2
+    Text = '52'
+  end
+  object Calculate: TButton
+    Left = 16
+    Height = 25
+    Top = 104
+    Width = 75
+    Caption = 'Calculate'
+    OnClick = CalculateClick
+    TabOrder = 3
+  end
+  object Memo1: TMemo
+    Left = 120
+    Height = 162
+    Top = 8
+    Width = 190
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 4
+  end
+end

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="psquareeqobj.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usquareeqobj.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="24"/>
+        <CursorPos X="8" Y="50"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="usqesolver.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="17" Y="37"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="20">
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="41" Column="3" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="88" Column="25" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="91" Column="25" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="92" Column="25" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="93" Column="25" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="94" Column="25" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="95" Column="25" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="94" Column="25" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="100" Column="36" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="23" Column="43" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="3" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="17" Column="10" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="83" Column="6" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="96" Column="55" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="106" Column="10" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="86" Column="49" TopLine="65"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="98" Column="13" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="usquareeqobj.pas"/>
+        <Caret Line="53" Column="18" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="usqesolver.pas"/>
+        <Caret Line="37" Column="20"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
